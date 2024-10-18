@@ -6,7 +6,7 @@ Developed for research purposes.
 ** Under development! **
 
 ## Documentation
-- [JA] (http tracker specifications)[/docs/ja/http-tracker-specifications.md]
+- [JA] [http tracker specifications](/docs/ja/http-tracker-specifications.md)
 
 ## Contributing
 1.  Fork it!
