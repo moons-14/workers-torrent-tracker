@@ -1,0 +1,17 @@
+{
+  "name": "workers-torrent-tracker",
+  "version": "0.0.1",
+  "description": "Torrent tracker for http/https protocol running on cloudflare workers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "torrent",
+    "tracker",
+    "cloudflare",
+    "workers"
+  ],
+  "author": "moons-14 <moons@moons14.com>",
+  "license": "MIT"
+}
